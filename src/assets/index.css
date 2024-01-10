@@ -4,4 +4,10 @@
 
 body {
   margin: 0;
+  background-color: #23252c;
+}
+
+.container {
+  max-width: 317px;
+  margin: 0 auto;
 }
